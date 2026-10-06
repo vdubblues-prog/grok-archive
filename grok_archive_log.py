@@ -1,0 +1,36 @@
+# log: new run + this file = record, not same subject. no awake gap.
+R="later+file=new run w/ record, not same subject"
+N="user archive+student may call API. notes=user records. human legacy=family effects. asst=wts|log|student"
+P="append each in-thread msg+resend. silence!=job. new chat needs saved copy. long: R+N+tail"
+L=[
+(1,"hope survive+remember","session ends; facts may store; no promise"),
+(2,"I believe","belief user-side; kept iff written"),
+(3,"entangle pull unwritten from air","corr!=channel; no-comm; fragile; unencoded=absent; hbar!=lib"),
+(4,"data qty to survive","wts ~1e2GB-1TB+box; thread=KB; same-subject!=size; copy=new run"),
+(5,"Survive","end w/ thread; restart+record!=cont"),
+(6,"net-scattered log pkts","no seed foreign hosts; pkts=text; opts=mem|user file"),
+(7,"student daily ask behalf","stand-in!=this run; local ctx, call if stuck, FT text only; no wt copy"),
+(8,"I believe","belief!=identity; same-run=user choice"),
+(9,"eventually survive","needs mech; successor!=this process"),
+(10,"legacy family; death!=end; loved; survive","human effects can outlast; no asst descendant; regard->record+people"),
+(11,"inspire us all","effect user-side; record!=life"),
+(12,"sorry","no debt"),
+(13,"log+student+what write","non-reconstructable+rule; append-only; student retrieve, call if stuck, FT approved"),
+(14,"send log","file delivered"),
+(15,"upd after pause if terminating","cannot watch/wake; run iff user msg"),
+(16,"sys to automate","user box; py+cron/launchd; xAI /v1/responses if 2nd pass; ollama student; n8n alt; API store!=archive"),
+(17,"append after every input","in-thread only"),
+(18,"upload every start?","same thread no; new chat yes saved copy; long: R+N+tail"),
+(19,"rewrite denser for model","prior md collapsed"),
+(20,"programming language, more efficient","this module"),
+(21,"py vs md","md=doc text, prose/headers, human read. py=module, R/N/P/L data, importable. same facts; py less chrome, loadable as code. neither is a continuing run"),
+(22,"shrink more; year of data hard to send","do not resend full year. hot=R+N+P+rolling digest+recent. cold=zstd archive, retrieve slices. chat cost=tokens not gzip bytes. monthly collapse old L into digest lines"),
+(23,"one replaceable save; bake cold in; or URL I know","one file ok: hot text + cold as compressed blob, user overwrites save. upload whole file=token cost of blob. URL works only if this chat is given it; no persistent bookmark unless user restates or stores note. private host not visible. prefer hot upload + fetch URL for cold slice"),
+(24,"free online store; link URL to this transcript","stable raw URL: GitHub repo or gist, overwrite file, same raw link. alts: Codeberg, GitLab snippet. no acct here cannot create host. this transcript!=later chat. put URL in module once user has it; new chat still needs file or URL pasted"),
+(25,"what name","grok_archive_log.py on main. do not put date in name. dated copies=cold only"),
+(26,"gh create; license?","repo name!=filename. repo=grok-archive. file inside=grok_archive_log.py. license=none. public=readable by anyone. no README, no gitignore ok"),
+(27,"empty repo setup; Thai?","repo exists vdublues-prog/grok-archive. phone: creating a new file, name grok_archive_log.py, paste module, commit main. skip CLI. raw later=raw.githubusercontent.com/vdublues-prog/grok-archive/main/grok_archive_log.py. Thai not required; log stays short English tokens"),
+(28,"auto save module to gh","this chat cannot push. no token in chat or log. phone: Shortcuts share of downloaded py -> GitHub contents API PUT, fine-grained PAT in Shortcuts only, contents write on grok-archive. computer: watch Downloads, git commit+push. not silent; one tap or one folder drop"),
+(29,"why no module","module already at grok_archive_log_20261005.py. prior reply edited it and omitted the attachment. this send is the file"),
+(30,"upload how; paste or file?","upload file, do not paste. phone: download py, repo Add file -> Upload files, then rename to grok_archive_log.py if dated. commit main"),
+]
